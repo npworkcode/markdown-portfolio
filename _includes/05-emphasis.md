@@ -1,0 +1,3 @@
+- Learning about Cloud Technology
+- Learning about DevOps _(including Azure DevOps)_
+- **Practicing and Learning** about *Java, Python and C#*
