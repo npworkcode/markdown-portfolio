@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+- Learning about Cloud Technology
+- Learning about DevOps _(including Azure DevOps)
+- **Practicing and Learning** about *Java, Python and C#*
